@@ -1,5 +1,5 @@
 # Todo App
-This is **Todo App** duplicated Trello.
+This is **Todo App** that cloned the trello.
 
 ## Screen
 ---
