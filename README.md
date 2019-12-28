@@ -29,4 +29,4 @@ Finally, you can create a content list by pressing 'Create New Content'.
 
 ![7](./screenshot/7.png)
 
-Thank you for read my todo app!
+Thank you for watching my todo app!
