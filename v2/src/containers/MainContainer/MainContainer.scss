@@ -1,0 +1,29 @@
+.MainContainer {
+    padding: 50px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    &-Input {
+        margin: 20px auto;
+        width: 400px;
+        align-items: center;
+        display: flex;
+        & > input {
+            padding: 16px;
+            width: 80%;
+            height: 40px;
+            outline: none;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+        & > button {
+            width: 20%;
+            height: 40px;
+            box-sizing: border-box;
+        }
+    }
+    &-List {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
